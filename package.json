@@ -1,11 +1,11 @@
 {
   "name": "livedb-mongo",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "MongoDB database adapter for livedb",
   "main": "mongo.js",
   "dependencies": {
     "async": "^0.9",
-    "mongoskin": "^1.4"
+    "mongoskin": "2.1.0"
   },
   "devDependencies": {
     "mocha": "^1",
